@@ -1,5 +1,5 @@
 # Modulo-2---PHP
-Este archivo contiene los siguientes ejercicios realizados con PHp y HTML sin estilo (solo los 4 script a los cuales le cambie el estilo de letra): 
+Este archivo contiene los siguientes ejercicios realizados con PHP y HTML sin estilo (solo los 4 script a los cuales le cambie el estilo de letra): 
 
 a. Ejercicios básicos:
 1.	Escribe un programa que utilice las variables $x y $y. Asígnales los valores 144 y 999 respectivamente. A continuación, muestra por pantalla el valor de cada variable, la suma, la resta, la división y la multiplicación.
